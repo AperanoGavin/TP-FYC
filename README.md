@@ -1,4 +1,5 @@
-[![demo tp](demo.gif)](https://youtu.be/xbrk_sIFxoY?si=HkW27x4SGR1Q2n4a)
+https://youtu.be/xbrk_sIFxoY?si=POOPKrbobnc9kmE1
+
 TP : Création d’un site web avancé avec l’IA
 🔹 Objectif
 Créer un site web moderne en combinant Galileo AI pour le design et le code + ChatGPT pour l'optimisation et la dynamisation.
